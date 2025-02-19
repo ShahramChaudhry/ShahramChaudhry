@@ -26,10 +26,10 @@ I’m a Computer Science student at **NYU Abu Dhabi**, passionate about **buildi
 ---
 
 ## 🚀 Featured Projects  
-📌 **[Churn Prediction Web App](#)** – ML-powered app predicting customer churn with **90% accuracy**.  
-📌 **[JetSetGo](#)** – Full-stack travel itinerary planner with **visa verification & dynamic trip planning**.  
-📌 **[LastCrumb](#)** – Mobile app (Flutter) **reducing food waste** through community-driven food redistribution.  
-📌 **[Inventory Management System](#)** – Real-time **React + Firebase** inventory tracker used by clinics.  
+📌 **[Churn Prediction Web App](https://github.com/ShahramChaudhry/churn-prediction)** – ML-powered app predicting customer churn with **90% accuracy**.  
+📌 **[JetSetGo](https://github.com/ShahramChaudhry/jetsetgo)** – Full-stack travel itinerary planner with **visa verification & dynamic trip planning**.  
+📌 **[LastCrumb]** – Mobile app (Flutter) **reducing food waste** through community-driven food redistribution.  
+📌 **[Inventory Management System](https://github.com/ShahramChaudhry/inventory-management)** – Real-time **React + Firebase** inventory tracker used by clinics.  
 
 _Check out more projects on my [GitHub](https://github.com/ShahramChaudhry)!_  
 
